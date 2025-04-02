@@ -1,5 +1,3 @@
-## habit-tracker
- 
 # Task & Habit Tracker
 Frontend (React): Drag-and-drop kanban board for tasks and a daily habit tracker.
 
